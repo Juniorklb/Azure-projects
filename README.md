@@ -91,6 +91,6 @@ This project replicates a typical enterprise network infrastructure, showcasing 
 
 ## 🔗 Links
 
-- 📄 [Final Project PDF](Junior_Kalomba_Windows_Server_Project_Formatted%20(1).pdf)
+- 📄 [Final Project PDF](Junior_Kalomba_Windows_Server_Project_Formatted.pdf)
 - 🎥 [Live Demo Video](link-to-video) *(coming soon)*
 
